@@ -5,16 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.puqiong.maven</groupId>
-    <artifactId>AnotherMavenProj</artifactId>
+    <artifactId>Parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <dependencies>
-        <dependency>
-            <groupId>com.puqiong.maven</groupId>
-            <artifactId>JMavenProj</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    <!--统一依赖管理-->
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
+
 </project>

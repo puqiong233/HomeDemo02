@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Test</title>
   </head>
   <body>
-  $END$
+  <h2>欢迎来到Maven的JavaWeb世界!22</h2>
+  <img src="img/1.png" height="175" width="174"/>
   </body>
 </html>
