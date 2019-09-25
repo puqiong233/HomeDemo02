@@ -15,4 +15,9 @@
         <relativePath>../Parent/pom.xml</relativePath>
     </parent>
 
+    <!--自动部署-->
+    <build>
+
+    </build>
+
 </project>
